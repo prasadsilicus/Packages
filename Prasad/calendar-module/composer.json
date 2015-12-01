@@ -1,0 +1,13 @@
+{
+    "name": "prasad/calendar",
+    "description": "Calendar Module",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Prasad",
+            "email": "prasad.nanaware@silicus.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
